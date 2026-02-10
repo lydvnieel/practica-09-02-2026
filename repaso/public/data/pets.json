@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Pulgoso",
+        "gender": true,
+        "age": 13,
+        "breed": "Poodle",
+        "img_url": "https://imgs.search.brave.com/5tl3kaBZKVSfsVrQYyy43cFildlV26PP2f5j5ITXddw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2RkLzc2/Lzc4L2RkNzY3ODMz/ZjRiNGVjZDM0MDI4/YTU5NDljZWJmZjIx/LmpwZw",
+        "state": "ADOPTED"
+    },
+     {
+        "name": "Gala",
+        "gender": false,
+        "age": 10,
+        "breed": "Retriever",
+        "img_url": "https://imgs.search.brave.com/B7rVWPdVAboZprpcxZjTnIVk7DSitg9w2BWxgTp1Xd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M4L2I4/LzQ0L2M4Yjg0NDIz/MjM0ODZhYWY4ZmM5/MGU0ZjY5MDU0YzI0/LmpwZw",
+        "state": "ADOPTED"
+    },
+     {
+        "name": "Nico",
+        "gender": true,
+        "age": 7,
+        "breed": "Poodle",
+        "img_url": "https://imgs.search.brave.com/82kuRXxlAn1SWVsVBhtv2zPUISmFr86EN_cRjh-mVhA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzhjL2U5/LzY0LzhjZTk2NDg2/ZWVmNGY4Y2JlMzM3/ODM0YTdhMjZlNWM1/LmpwZw",
+        "state": "ADOPTED"
+    },
+     {
+        "name": "Sol",
+        "gender": false,
+        "age": 8,
+        "breed": "Retriever",
+        "img_url": "https://imgs.search.brave.com/IAY_zZT8_AV8evR5XD3iEQK18mkcjZT896AogSNZ5zI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M0Lzg2/Lzc5L2M0ODY3OTQ2/NTAwYWNhNDg4NGNk/Yzc1OGRjZDc5NTg0/LmpwZw",
+        "state": "ADOPTED"
+    }
+]
